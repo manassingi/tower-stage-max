@@ -186,7 +186,7 @@ async function getBackgroundImg(){
         bg = "bg.png";
     }
     else{
-        bg = "bg2.png";
+        bg = "https://github.com/manassingi/tower-stage-max/blob/main/bg2.png?raw=true";
     }
 
     backgroundImg = loadImage(bg);
